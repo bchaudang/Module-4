@@ -3,7 +3,7 @@ Pandas Challenge
 
 Summarizes the analysis:
 
-Performed an analysis using the data of schools and students in High Schools based on their budget and academic scores. The data was cleaned and dataframes were categorized by distrcit, by school, total budget, budget per student, school spending, average math and reading scores as well as percentages of students who passed math, reading and overall.
+Performed an analysis using the data of schools and students in High Schools based on their budget and academic scores. The data was cleaned and dataframes were categorized by district, by school, total budget, budget per student, school spending, average math and reading scores as well as percentages of students who passed math, reading and overall.
 
 Draws two correct conclusions or comparisons from the calculations:
 
